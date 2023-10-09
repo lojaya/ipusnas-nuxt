@@ -1,0 +1,33 @@
+{
+  "name": "ipusnas-nuxt",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxi build",
+    "dev": "nuxi dev",
+    "start": "node .output/server/index.mjs",
+    "typecheck": "vue-tsc --noEmit",
+    "lint": "eslint .",
+    "generate": "nuxi generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxi prepare",
+    "start:generate": "npx serve .output/public"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "^1.0.0-beta.18",
+    "@nuxt/devtools": "latest",
+    "@nuxt/ui": "^2.9.0",
+    "@nuxtjs/i18n": "^8.0.0-rc.5",
+    "@pinia/nuxt": "^0.4.11",
+    "@vite-pwa/nuxt": "^0.1.1",
+    "@vueuse/nuxt": "^10.4.1",
+    "eslint": "^8.50.0",
+    "nuxt": "^3.7.4",
+    "pinia": "^2.1.6",
+    "typescript": "^5.2.2",
+    "vue": "^3.3.4",
+    "vue-router": "^4.2.5",
+    "vue-tsc": "^1.8.15"
+  },
+  "dependencies": {}
+}

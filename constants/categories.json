@@ -1,0 +1,738 @@
+[
+  {
+    "id": 0,
+    "name": "All Category"
+  },
+  {
+    "id": 503,
+    "name": "Agama"
+  },
+  {
+    "id": 46,
+    "name": "Agama & Spiritual"
+  },
+  {
+    "id": 662,
+    "name": "Agama Buddha"
+  },
+  {
+    "id": 717,
+    "name": "Agama Hindu"
+  },
+  {
+    "id": 14,
+    "name": "Agama Islam"
+  },
+  {
+    "id": 658,
+    "name": "Agama Katolik"
+  },
+  {
+    "id": 615,
+    "name": "Agama Kristen"
+  },
+  {
+    "id": 757,
+    "name": "Agroindustri"
+  },
+  {
+    "id": 69,
+    "name": "Alam & Lingkungan"
+  },
+  {
+    "id": 35,
+    "name": "Anak"
+  },
+  {
+    "id": 77,
+    "name": "Antik & Koleksi"
+  },
+  {
+    "id": 101,
+    "name": "Arsip"
+  },
+  {
+    "id": 62,
+    "name": "Arsitektur"
+  },
+  {
+    "id": 715,
+    "name": "Bahan Manajemen"
+  },
+  {
+    "id": 93,
+    "name": "Bahasa"
+  },
+  {
+    "id": 47,
+    "name": "Bahasa asing"
+  },
+  {
+    "id": 378,
+    "name": "Biografi"
+  },
+  {
+    "id": 492,
+    "name": "Biografi & Otobiografi"
+  },
+  {
+    "id": 51,
+    "name": "Biografi, Otobiografi, Bibliografi"
+  },
+  {
+    "id": 756,
+    "name": "Biokimia"
+  },
+  {
+    "id": 758,
+    "name": "Biologi"
+  },
+  {
+    "id": 426,
+    "name": "Bisnis"
+  },
+  {
+    "id": 44,
+    "name": "Bisnis & Ekonomi"
+  },
+  {
+    "id": 422,
+    "name": "Bisnis & Karier"
+  },
+  {
+    "id": 430,
+    "name": "Bisnis-Investasi"
+  },
+  {
+    "id": 82,
+    "name": "BSE Siswa"
+  },
+  {
+    "id": 205,
+    "name": "Budaya"
+  },
+  {
+    "id": 586,
+    "name": "Budaya & Sastra"
+  },
+  {
+    "id": 155,
+    "name": "Budidaya"
+  },
+  {
+    "id": 10,
+    "name": "Buku"
+  },
+  {
+    "id": 472,
+    "name": "Bahana Manajemen"
+  },
+  {
+    "id": 314,
+    "name": "Buku Sekolah"
+  },
+  {
+    "id": 223,
+    "name": "Busana"
+  },
+  {
+    "id": 598,
+    "name": "Cerita Rakyat"
+  },
+  {
+    "id": 109,
+    "name": "Cerpen"
+  },
+  {
+    "id": 568,
+    "name": "Desain Grafis & Multimedia"
+  },
+  {
+    "id": 76,
+    "name": "Drama"
+  },
+  {
+    "id": 750,
+    "name": "Ekonomi"
+  },
+  {
+    "id": 509,
+    "name": "Ekonomi & Keuangan"
+  },
+  {
+    "id": 603,
+    "name": "Ekonomi Syariah"
+  },
+  {
+    "id": 725,
+    "name": "Ekowisata"
+  },
+  {
+    "id": 730,
+    "name": "Ensiklopedia"
+  },
+  {
+    "id": 346,
+    "name": "Entrepeneur"
+  },
+  {
+    "id": 13,
+    "name": "Fiksi"
+  },
+  {
+    "id": 38,
+    "name": "Fiksi Remaja"
+  },
+  {
+    "id": 550,
+    "name": "Filosofi"
+  },
+  {
+    "id": 45,
+    "name": "Filsafat"
+  },
+  {
+    "id": 767,
+    "name": "Fisheries"
+  },
+  {
+    "id": 721,
+    "name": "Fisika"
+  },
+  {
+    "id": 764,
+    "name": "Flora"
+  },
+  {
+    "id": 761,
+    "name": "Flora & Fauna"
+  },
+  {
+    "id": 753,
+    "name": "Forestry"
+  },
+  {
+    "id": 469,
+    "name": "FORUM BANGUNAN"
+  },
+  {
+    "id": 65,
+    "name": "Fotografi"
+  },
+  {
+    "id": 81,
+    "name": "Game"
+  },
+  {
+    "id": 18,
+    "name": "Gaya Hidup & Hiburan"
+  },
+  {
+    "id": 114,
+    "name": "Geologi & Geografi"
+  },
+  {
+    "id": 755,
+    "name": "Gizi"
+  },
+  {
+    "id": 37,
+    "name": "Hewan"
+  },
+  {
+    "id": 527,
+    "name": "Hobi"
+  },
+  {
+    "id": 281,
+    "name": "Hukum"
+  },
+  {
+    "id": 32,
+    "name": "Hukum & Politik"
+  },
+  {
+    "id": 20,
+    "name": "Humaniora"
+  },
+  {
+    "id": 48,
+    "name": "Humor"
+  },
+  {
+    "id": 134,
+    "name": "Ilmu Administrasi"
+  },
+  {
+    "id": 531,
+    "name": "Ilmu Budaya"
+  },
+  {
+    "id": 197,
+    "name": "Ilmu Pengetahuan & Budaya"
+  },
+  {
+    "id": 511,
+    "name": "Ilmu Pengetahuan Umum"
+  },
+  {
+    "id": 500,
+    "name": "Ilmu Politik"
+  },
+  {
+    "id": 521,
+    "name": "Ilmu Sosial"
+  },
+  {
+    "id": 590,
+    "name": "Inspirasi"
+  },
+  {
+    "id": 89,
+    "name": "Interior & Eksterior"
+  },
+  {
+    "id": 592,
+    "name": "Jakarta Barat"
+  },
+  {
+    "id": 291,
+    "name": "Kamus"
+  },
+  {
+    "id": 763,
+    "name": "Kebijakan"
+  },
+  {
+    "id": 162,
+    "name": "Kedokteran & Medis"
+  },
+  {
+    "id": 642,
+    "name": "Kedokteran Hewan"
+  },
+  {
+    "id": 638,
+    "name": "Kehutanan"
+  },
+  {
+    "id": 754,
+    "name": "Kelautan"
+  },
+  {
+    "id": 43,
+    "name": "Keluarga"
+  },
+  {
+    "id": 350,
+    "name": "Keperawatan & Kebidanan"
+  },
+  {
+    "id": 60,
+    "name": "Kerajinan & Hobi"
+  },
+  {
+    "id": 434,
+    "name": "Kesehatan"
+  },
+  {
+    "id": 442,
+    "name": "Kesehatan & Kecantikan"
+  },
+  {
+    "id": 446,
+    "name": "Kesehatan & Kepribadian"
+  },
+  {
+    "id": 42,
+    "name": "Kesehatan & Obat-obatan"
+  },
+  {
+    "id": 438,
+    "name": "Kesehatan Bayi"
+  },
+  {
+    "id": 496,
+    "name": "Kesehatan dan Obat-obatan"
+  },
+  {
+    "id": 362,
+    "name": "Kesehatan Seksual dan Keperawatan"
+  },
+  {
+    "id": 731,
+    "name": "Kewirausahaan"
+  },
+  {
+    "id": 674,
+    "name": "Khastara"
+  },
+  {
+    "id": 704,
+    "name": "Manuskrip"
+  },
+  {
+    "id": 707,
+    "name": "Monograf"
+  },
+  {
+    "id": 728,
+    "name": "Kimia"
+  },
+  {
+    "id": 125,
+    "name": "Komik"
+  },
+  {
+    "id": 749,
+    "name": "Komputer"
+  },
+  {
+    "id": 58,
+    "name": "Komputer & Internet"
+  },
+  {
+    "id": 236,
+    "name": "Komunikasi"
+  },
+  {
+    "id": 148,
+    "name": "Komunikasi & Jurnalis"
+  },
+  {
+    "id": 760,
+    "name": "Konsumen"
+  },
+  {
+    "id": 80,
+    "name": "Kriminal"
+  },
+  {
+    "id": 79,
+    "name": "Kritik Sastra"
+  },
+  {
+    "id": 306,
+    "name": "Kuliner"
+  },
+  {
+    "id": 512,
+    "name": "Lingkungan"
+  },
+  {
+    "id": 113,
+    "name": "Majalah"
+  },
+  {
+    "id": 298,
+    "name": "Makanan & Minuman"
+  },
+  {
+    "id": 296,
+    "name": "Manajemen"
+  },
+  {
+    "id": 766,
+    "name": "Maritim"
+  },
+  {
+    "id": 52,
+    "name": "Matematika"
+  },
+  {
+    "id": 86,
+    "name": "Media"
+  },
+  {
+    "id": 57,
+    "name": "Memasak"
+  },
+  {
+    "id": 727,
+    "name": "Mesin"
+  },
+  {
+    "id": 607,
+    "name": "Metodologi"
+  },
+  {
+    "id": 544,
+    "name": "Motivasi"
+  },
+  {
+    "id": 21,
+    "name": "Motivasi & Inspirasi"
+  },
+  {
+    "id": 59,
+    "name": "Musik"
+  },
+  {
+    "id": 61,
+    "name": "Non Fiksi"
+  },
+  {
+    "id": 75,
+    "name": "Non Fiksi Remaja"
+  },
+  {
+    "id": 517,
+    "name": "Novel"
+  },
+  {
+    "id": 558,
+    "name": "Novel Dewasa"
+  },
+  {
+    "id": 366,
+    "name": "Olah Raga"
+  },
+  {
+    "id": 63,
+    "name": "Olahraga & Rekreasi "
+  },
+  {
+    "id": 406,
+    "name": "Orangtua & Anak"
+  },
+  {
+    "id": 718,
+    "name": "Otobiografi"
+  },
+  {
+    "id": 743,
+    "name": "Otomotif"
+  },
+  {
+    "id": 92,
+    "name": "Panduan"
+  },
+  {
+    "id": 84,
+    "name": "Pangan & Agraria"
+  },
+  {
+    "id": 765,
+    "name": "Parasitology"
+  },
+  {
+    "id": 564,
+    "name": "Pariwisata"
+  },
+  {
+    "id": 729,
+    "name": "Pemasaran"
+  },
+  {
+    "id": 572,
+    "name": "Pemograman"
+  },
+  {
+    "id": 12,
+    "name": "Pendidikan"
+  },
+  {
+    "id": 454,
+    "name": "Pendidikan & Permainan"
+  },
+  {
+    "id": 724,
+    "name": "Pendidikan Akhlak"
+  },
+  {
+    "id": 330,
+    "name": "Pendidikan Anak"
+  },
+  {
+    "id": 246,
+    "name": "Pendidikan Karakter"
+  },
+  {
+    "id": 410,
+    "name": "Pendidikan Keluarga"
+  },
+  {
+    "id": 176,
+    "name": "Pengayaan"
+  },
+  {
+    "id": 402,
+    "name": "Pengembangan Diri"
+  },
+  {
+    "id": 714,
+    "name": "Pengetahuan Alam"
+  },
+  {
+    "id": 358,
+    "name": "Pengetahuan Kesehatan"
+  },
+  {
+    "id": 759,
+    "name": "Perairan"
+  },
+  {
+    "id": 548,
+    "name": "Perikanan"
+  },
+  {
+    "id": 623,
+    "name": "Perikanan dan Ilmu Kelautan"
+  },
+  {
+    "id": 54,
+    "name": "Perjalanan "
+  },
+  {
+    "id": 752,
+    "name": "Perkebunan"
+  },
+  {
+    "id": 398,
+    "name": "Permainan"
+  },
+  {
+    "id": 523,
+    "name": "Pertanian"
+  },
+  {
+    "id": 39,
+    "name": "Pertolongan Studi"
+  },
+  {
+    "id": 582,
+    "name": "Peternakan"
+  },
+  {
+    "id": 576,
+    "name": "Politik"
+  },
+  {
+    "id": 554,
+    "name": "Profesional dan Teknis"
+  },
+  {
+    "id": 67,
+    "name": "Psikologi"
+  },
+  {
+    "id": 78,
+    "name": "Puisi"
+  },
+  {
+    "id": 40,
+    "name": "Referensi"
+  },
+  {
+    "id": 342,
+    "name": "Referensi dan Kamus"
+  },
+  {
+    "id": 726,
+    "name": "Resensi"
+  },
+  {
+    "id": 418,
+    "name": "Resep Masakan"
+  },
+  {
+    "id": 73,
+    "name": "Rumah"
+  },
+  {
+    "id": 751,
+    "name": "Sains"
+  },
+  {
+    "id": 94,
+    "name": "Sains & Teknologi"
+  },
+  {
+    "id": 539,
+    "name": "Sastra"
+  },
+  {
+    "id": 88,
+    "name": "Sastra & Budaya"
+  },
+  {
+    "id": 74,
+    "name": "Sastra Koleksi"
+  },
+  {
+    "id": 56,
+    "name": "Sejarah"
+  },
+  {
+    "id": 736,
+    "name": "Sejarah Budaya"
+  },
+  {
+    "id": 722,
+    "name": "Sejarah Islami"
+  },
+  {
+    "id": 338,
+    "name": "Sekolah-Pengawasan"
+  },
+  {
+    "id": 36,
+    "name": "Self-Help"
+  },
+  {
+    "id": 537,
+    "name": "Seni"
+  },
+  {
+    "id": 217,
+    "name": "Seni dan Budaya"
+  },
+  {
+    "id": 49,
+    "name": "Seni, Hiburan & Pertunjukan"
+  },
+  {
+    "id": 322,
+    "name": "Sosial & Budaya"
+  },
+  {
+    "id": 85,
+    "name": "Sosial & Politik"
+  },
+  {
+    "id": 334,
+    "name": "Sosiologi"
+  },
+  {
+    "id": 580,
+    "name": "Statistika"
+  },
+  {
+    "id": 382,
+    "name": "Sulap"
+  },
+  {
+    "id": 762,
+    "name": "Teknologi"
+  },
+  {
+    "id": 631,
+    "name": "Teknologi Pertanian"
+  },
+  {
+    "id": 535,
+    "name": "Tips & Trik"
+  },
+  {
+    "id": 70,
+    "name": "Transportasi"
+  },
+  {
+    "id": 53,
+    "name": "Tubuh, Pikiran, & Semangat"
+  },
+  {
+    "id": 6,
+    "name": "Umum"
+  }
+]
