@@ -28,11 +28,6 @@ const { text, copy, copied, isSupported } = useClipboard({ source })
 
 const toast = useToast()
 
-function removeHtmlTags(s: string | undefined) {
-  const htmlRegexG = /<(?:"[^"]*"['"]*|'[^']*'['"]*|[^'">])+>/g
-  return (s || "").replace(htmlRegexG, '')
-}
-
 const { data: book, pending: bookPending, execute } = await useLazyAsyncData('book', () => $fetch<BookItem>(
   `${runtimeConfig.public.baseUrl}/get-book`, {
   query: {
@@ -191,7 +186,7 @@ const doReturnBook = async () => {
         <div class="flex items-start gap-2">
           <strong class="min-w-[90px] text-right">Description</strong>
           <div class="inline-flex items-center gap-1">
-            <div class="max-h-24 overflow-scroll">{{ removeHtmlTags(book?.Book?.description) }}</div>
+            <div class="max-h-24 overflow-scroll" v-html="book?.Book?.description"></div>
           </div>
         </div>
       </div>
