@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import type { Book, BookItem } from '../../constants/interfaces'
+import type { Book, BookItem } from '../constants/interfaces'
 
 const props = defineProps<{ item: BookItem, loading: Boolean, pageType: string }>()
 const borrowedBooks = useLocalStorage<any>('ipusnas_borrowed', [])

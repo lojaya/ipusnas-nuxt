@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import type { Book, BookItem } from '../../constants/interfaces'
+import type { Book, BookItem } from '../constants/interfaces'
 
 const runtimeConfig = useRuntimeConfig()
 

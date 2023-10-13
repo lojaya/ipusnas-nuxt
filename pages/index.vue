@@ -2,8 +2,8 @@
 import sorts from '../constants/sorts.json'
 import categories from '../constants/categories.json'
 import type { Book, BookItem } from '../constants/interfaces'
-import Entry from '~/components/base/Entry.vue'
-import Detail from '~/components/base/Detail.vue'
+import Entry from '~/components/Entry.vue'
+import Detail from '~/components/Detail.vue'
 import Notification from '~/components/Notification.vue'
 
 const runtimeConfig = useRuntimeConfig()

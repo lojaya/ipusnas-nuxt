@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import Detail from '~/components/base/Detail.vue'
+import Detail from '~/components/Detail.vue'
 import { Book } from '~/constants/interfaces';
 
 const route = useRoute()
