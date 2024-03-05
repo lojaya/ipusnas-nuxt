@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { appName } from '~/constants'
+import Footer from '~/components/Footer.vue'
 
 useHead({
   title: appName,
@@ -12,6 +13,7 @@ useHead({
 
     <UNotifications />
   </NuxtLayout>
+  <Footer></Footer>
 </template>
 
 <style>

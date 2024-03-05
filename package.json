@@ -15,6 +15,7 @@
   },
   "devDependencies": {
     "@antfu/eslint-config": "^1.0.0-beta.18",
+    "@iconify-json/logos": "^1.1.37",
     "@nuxt/devtools": "latest",
     "@nuxt/ui": "^2.9.0",
     "@nuxtjs/i18n": "^8.0.0-rc.5",
