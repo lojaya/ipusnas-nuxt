@@ -10,10 +10,9 @@ useHead({
 <template>
   <NuxtLayout>
     <NuxtPage />
-
     <UNotifications />
+    <Footer></Footer>
   </NuxtLayout>
-  <Footer></Footer>
 </template>
 
 <style>
